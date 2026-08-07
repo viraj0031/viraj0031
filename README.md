@@ -22,8 +22,7 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/viraj0031
-- LinkedIn: www.linkedin.com/in/
-viraj-bhambure
+- LinkedIn: www.linkedin.com/in/viraj-bhambure
 
 
 ## 🎯 Current Focus
