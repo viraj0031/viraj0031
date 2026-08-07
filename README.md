@@ -22,7 +22,9 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/viraj0031
-- LinkedIn: linkedin.com/in/viraj-bhambure 
+- LinkedIn: www.linkedin.com/in/
+viraj-bhambure
+
 
 ## 🎯 Current Focus
 Learning AI Engineering, MLOps, and Full-Stack AI Development.
