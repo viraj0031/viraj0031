@@ -49,25 +49,89 @@ Git • GitHub • AWS (Basics) • Google Cloud Platform (Basics) • Figma
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 ### 🤖 AI Interview Evaluation System
-- AI-powered assessment platform for placement preparation
-- OpenAI GPT integration for answer evaluation
-- Judge0 API for live code execution
-- OpenCV-based AI proctoring system
-- Admin dashboard with analytics and reporting
+AI-powered interview assessment platform designed for placement preparation.
+
+**Key Features**
+- OpenAI GPT-powered answer evaluation
+- Judge0 API integration for live code execution
+- OpenCV-based AI proctoring
+- Candidate performance analytics and reporting
+- Admin dashboard for performance tracking
+
+---
+
+### 🧠 JARVIS-X AI Assistant
+Advanced desktop AI assistant built with Python and AI technologies.
+
+**Key Features**
+- Voice-controlled interaction
+- AI-powered conversations
+- Application and system automation
+- Web search integration
+- Productivity workflows
+- Computer vision capabilities
+
+🔗 Repository: https://github.com/viraj0031/JARVIS-X
+
+---
+
+### 🌐 Shree Sai Trades Website (Client Project)
+Professional business website developed for a real client in the steel and construction materials industry.
+
+**Tech Stack**
+- React
+- TypeScript
+- Vite
+- Responsive Web Design
+
+🌐 Live Website: https://shreesaitrades.netlify.app/
+
+🔗 Repository: https://github.com/viraj0031/Shree_Sai_Trades_Website
+
+---
 
 ### 📊 Customer Segmentation Using Machine Learning
-- K-Means clustering implementation
-- Data preprocessing and visualization
-- Customer behavior analysis and insights
+Machine Learning project focused on customer behavior analysis and business insights.
 
-### 🌐 AI/ML Portfolio
-- Showcase of AI and Machine Learning projects
-- Practical implementations and case studies
+**Key Features**
+- K-Means Clustering
+- Data Preprocessing
+- Data Visualization
+- Customer Segmentation Analysis
+- Business Intelligence Insights
+
+---
 
 ### 🏦 SBI Bank Management System
-- Python OOP-based banking application
-- Account management and transaction features
+Object-Oriented Python application simulating banking operations.
+
+**Features**
+- Account Management
+- Deposit & Withdrawal Operations
+- Interest Calculation
+- Admin & User Modules
+- OOP-Based Architecture
+
+---
+
+### 🧪 QA Automation Framework – Workflow Pro
+Comprehensive QA automation framework for a multi-tenant SaaS platform.
+
+**Tech Stack**
+- Python
+- Pytest
+- Playwright
+- REST API Testing
+
+**Key Features**
+- Automated UI and API testing
+- Page Object Model (POM) architecture
+- Security and integration testing
+- Tenant isolation validation
+- Test planning and bug reporting
 
 ---
 
