@@ -5,7 +5,7 @@
 Building AI-Powered Applications, Machine Learning Solutions, and Intelligent Systems.
 
 📍 Pune, India  
-📧 virajbhambure1@gmail.com  
+📧 Gmail: virajbhambure1@gmail.com  
 💻 GitHub: https://github.com/viraj0031  
 🔗 LinkedIn: https://linkedin.com/in/viraj-bhambure  
 🌐 Portfolio: https://virajbhambure.netlify.app
