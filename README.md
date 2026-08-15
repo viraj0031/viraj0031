@@ -49,8 +49,6 @@ Git • GitHub • AWS (Basics) • Google Cloud Platform (Basics) • Figma
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 ### 🤖 AI Interview Evaluation System
 AI-powered interview assessment platform designed for placement preparation.
 
